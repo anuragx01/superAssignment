@@ -66,6 +66,11 @@ body {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
 }
 
+.table-scroll {
+  width: 100%;
+  overflow-x: auto;
+}
+
 .task-table th {
   text-align: left;
   padding: 0.75rem 1rem;
